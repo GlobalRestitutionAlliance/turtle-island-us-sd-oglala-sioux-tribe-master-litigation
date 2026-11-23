@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=oglala+sioux",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=oglala+sioux",
+  "title": "GPO - Federal Register Oglala Sioux",
+  "fetched_at": "2026-11-23T14:32:29.590359Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 325434,
+  "sha256": "810e63d35e8c31bd3f43e7f9206811b13eb3a4a17f5a0c957c2b5449f5237e94",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
